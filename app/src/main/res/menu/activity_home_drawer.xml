@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/new_appointment"
+            android:icon="@drawable/ic_licon_plus"
+            android:title="New Appointment" />
+        <item
+            android:id="@+id/pre_appointment"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Previous Appointment" />
+
+    </group>
+
+    <item android:title="Profile Setting">
+        <menu>
+            <item
+                android:id="@+id/view_profile"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="View Profile" />
+            <item
+                android:id="@+id/upload_doc"
+                android:icon="@drawable/ic_cloud_upload_black_24dp"
+                android:title="Upload Doc" />
+            <item
+                android:id="@+id/view_doc"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="View Doc" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_settings_power_black_24dp"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+
+</menu>

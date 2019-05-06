@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15173107942",
+    "firebase_url": "https://medicalblocksandroid.firebaseio.com",
+    "project_id": "medicalblocksandroid",
+    "storage_bucket": "medicalblocksandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15173107942:android:af72f3a86485e63f",
+        "android_client_info": {
+          "package_name": "com.niet.medicalblocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15173107942-lgkpd6qr1uri7kj9v6bc8rpikbaptfhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niet.medicalblocks",
+            "certificate_hash": "5691d2c9360cff5d235537123dd16e2818dd1e8d"
+          }
+        },
+        {
+          "client_id": "15173107942-aibcae21c34v1n9urj73eh30fhb577l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88xRjKtTg6RMXNbohKsSzlNXGVEUS6S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15173107942-aibcae21c34v1n9urj73eh30fhb577l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
